@@ -1,0 +1,21 @@
+Meal Name,Meal Type,Protein (g),Carbs (g),Fats (g),Fiber (g),Calories,Carb Type,Fiber First Veg,Prep Notes
+Orgain Protein Shake with Banana,Breakfast,30,22,7,3,300,Banana,None,"Blend 2 scoops Orgain with banana, whole milk, ice"
+"Eggs, Ezekiel Bread, Spinach",Breakfast,28,15,12,4,320,Ezekiel Bread,Spinach,"Cook 2 eggs + 3 egg whites, toast bread, add sautéed spinach"
+Cottage Cheese with Apple,Breakfast,25,18,6,3,270,Red Apple,None,Mix cottage cheese with chopped apple and cinnamon
+Egg White Omelet with Avocado Toast,Breakfast,26,18,10,5,320,Whole Wheat Bread,Spinach,"Cook egg whites with spinach, serve with avocado on toast"
+Protein Pancakes with Berries,Breakfast,28,22,7,5,330,Oats + Berries,None,"Blend oats, eggs, Orgain powder, top with berries"
+Chicken Breakfast Wrap,Breakfast,30,20,9,4,350,Whole Wheat Wrap,Spinach,"Wrap grilled chicken, egg, and spinach in whole wheat tortilla"
+Hard-Boiled Eggs and Almonds,Snack,14,2,15,3,210,None,None,2 hard-boiled eggs and 10 almonds
+Apple with Peanut Butter,Snack,6,22,9,4,240,Red Apple,None,Slice apple and dip in 1 tbsp peanut butter
+Cottage Cheese and Carrot Sticks,Snack,15,6,4,2,150,Carrots,Carrots,¾ cup cottage cheese with baby carrots
+Chicken Power Bowl,Lunch,45,35,15,7,530,Brown Rice,Cabbage + Carrots,Microwave + drizzle tahini
+Chicken Pita Wrap,Lunch,42,38,13,6,510,Whole Wheat Pita,Spinach + Cucumbers,"Warm chicken, use cold veg, wrap and go"
+Beef & Broccoli Bowl,Lunch,40,30,18,6,520,Brown Rice,Broccoli + Red Cabbage,"Sautee ground beef with garlic, serve over rice and veggies"
+Egg & Spinach Sandwich,Lunch,28,24,14,5,390,Whole Wheat Bread,Spinach,"Cook eggs, toast bread, add spinach and mustard"
+Cottage Cheese Protein Bowl,Lunch,34,18,10,4,340,Fruit + Cucumber,Cucumber,Top cottage cheese with sliced fruit and cucumbers
+Ground Beef Pita Bowl,Dinner,38,32,17,6,510,Whole Wheat Pita,Cabbage + Pickles,Serve seasoned ground beef in pita with tahini and veg
+Egg & Veggie Stir Fry,Dinner,30,20,14,5,360,Brown Rice,Spinach + Carrots,"Scramble eggs and stir fry with veggies, serve over rice"
+Cottage Cheese & Sweet Bell Peppers,Dinner,32,14,10,4,290,Bell Peppers,Bell Peppers + Carrots,"Spoon cottage cheese into pepper halves, serve cold"
+Burger Plate with Pickles and Spinach,Dinner,40,20,18,5,480,Whole Wheat Bread,Spinach + Pickles,Serve burger patty on toast or lettuce with veggies
+Grilled Chicken Sandwich,Dinner,41,34,14,5,500,Whole Wheat Bread,Spinach + Pickles,"Toast bread, layer chicken, add mustard or tahini"
+Chicken & Veggie Stir Fry,Dinner,47,37,13,6,530,Brown Rice,Broccoli + Cabbage,"Pan-sear veggies, reheat chicken, combine"
