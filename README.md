@@ -1,15 +1,15 @@
-# 🏋️‍♂️ Daily Fitness Email Automation
+# Daily Fitness Email Automation
 
 This Python script emails you a daily combination of:
 
-- 🥣 A random **breakfast**, **lunch**, and **dinner** from your meal plan
-- 💪 A workout tailored to the day of the week, blending gym and home recovery routines
+- A random **breakfast**, **lunch**, and **dinner** from your meal plan
+- A workout tailored to the day of the week, blending gym and home recovery routines
 
 The goal: make health and fitness effortless by removing decision fatigue — just open your inbox and follow the plan.
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 daily_fitness_email/
@@ -23,7 +23,7 @@ daily_fitness_email/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -57,7 +57,7 @@ python fitness_emailer.py
 
 ---
 
-## 🕖 Optional: Automate with Windows Task Scheduler
+## Optional: Automate with Windows Task Scheduler
 
 To run the script every morning at 7:00 AM:
 
@@ -73,37 +73,36 @@ To run the script every morning at 7:00 AM:
 
 ---
 
-## 🧠 Logic Summary
+## Logic Summary
 
-### 🥗 Meals
+### Meals
 - Pulls from `Meal Plan.csv`
 - Randomly selects one of each: breakfast, lunch, and dinner
 
-### 🏃 Workouts
+### Workouts
 - Gym workouts on weekdays (Mon, Tue, Thu, Fri)
 - At-home or recovery routines on Wed, Sat, Sun
 - Pulls from `Workout Circuits.csv` + built-in light day logic
 
 ---
 
-## ✅ Example Email Output
+## Example Email Output
 
 - Subject: `Your Fitness Plan for Wednesday`
 - Content:
-  - 🥣 Meals with macros and prep tips
-  - 🏋️ Exercises with sets, reps, and video links
+  - Meals with macros and prep tips
+  - Exercises with sets, reps, and video links
 
 ---
 
-## 🔐 Security
+## Security
 
-Your `.env` file contains sensitive login info. Be sure:
-- **Never commit it to GitHub**
-- `.gitignore` includes `.env`
-- You rotate your Gmail App Password if needed
+The `.env` file contains sensitive login info. 
 
+Be sure:
+-.gitignore` includes `.env`
 ---
 
-## 🙋‍♂️ Made by Eric Barenholtz
+## Made by Eric Barenholtz
 
 Part of a personal project to automate healthy habits, reduce friction, and build muscle while reducing body fat.
